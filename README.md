@@ -8,15 +8,9 @@ This repository contains a file with 100+ carefully crafted Python practice ques
 
 ## What You'll Find
 
-- **100 Practice Questions**: A diverse set of problems designed to test various aspects of Python programming.
+- **200 Practice Questions**: A diverse set of problems designed to test various aspects of Python programming.
 - **Topics Covered**: Basic syntax, data types, control flow, functions, file handling, and more.
 - **Difficulty Levels**: Questions range from beginner to intermediate, providing a gradual learning curve.
-
-## Getting Started
-
-1. **Open the Practice Questions File**: Locate the file named `practice_questions.py` (or your chosen file name) to begin working through the exercises.
-
-2. **Start Practicing**: Begin solving the questions and testing your solutions.
 
 ## How to Use
 
